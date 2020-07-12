@@ -1,0 +1,1 @@
+{"name": "Presen\u00e7a da Escurid\u00e3o", "type": "Spear", "red": "0", "damage": "2D12+6", "range": "16/1", "life_points": "0", "area": "No", "abilities": ["None"], "effects": "None", "description": "Controlando as sombras, Sattori ataca com inumeras estacas, que percorrem a distancia desejada.\n"}

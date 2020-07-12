@@ -1,0 +1,1 @@
+{"name": "rfff", "type": "Armor", "red": "-2", "damage": "0", "range": "1", "life_points": "0", "area": "No", "abilities": ["escudo_sombrio_"], "effects": "None", "description": ""}

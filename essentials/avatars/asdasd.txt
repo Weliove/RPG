@@ -1,0 +1,1 @@
+{"name": "asdasd", "life_points": "1", "adrenaline": "1", "class": "None", "weapon": ["Sword", "o_raio_da_prote\u00e7\u00e3o", "presen\u00e7a_da_escurid\u00e3o"], "armor": "None", "physical_ab": "D10+10", "title": ["None"], "abilities": ["None"], "description": "None"}
